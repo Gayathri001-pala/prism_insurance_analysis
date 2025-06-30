@@ -47,7 +47,7 @@ To turn raw insurance data into meaningful visuals that help track policy types,
 ## 📷 Dashboard Previews
 
 ### 📌 Page 1 – Insurance Data Overview
-![Page 1](dashboard-preview/page1.png)
+https://github.com/Gayathri001-pala/prism_insurance_analysis/blob/main/project_page_1.jpg
 
 ### 📌 Page 2 – Insurance Details Table  
 ![Page 2](dashboard-preview/page2.png)
