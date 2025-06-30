@@ -16,6 +16,7 @@ To turn raw insurance data into meaningful visuals that help track policy types,
 - Format: **CSV file**  
 - Loaded into: **Microsoft SQL Server**  
 - Queried using: **SQL** and connected to Power BI
+- 
 https://github.com/Gayathri001-pala/prism_insurance_analysis/blob/main/prism_insurance_raw_data.csv
 
 **Columns included:**
@@ -53,7 +54,6 @@ https://github.com/Gayathri001-pala/prism_insurance_analysis/blob/main/project_p
 ### 📌 Page 2 – Insurance Details Table  
 https://github.com/Gayathri001-pala/prism_insurance_analysis/blob/main/project_page_2.jpg
 
-> 
 
 ---
 
@@ -90,9 +90,9 @@ This dashboard provides key insights into the company’s performance. It suppor
 
 ## 📁 Power BI File
 
-[📂 Download Power BI File (`Insurance_Analysis.pbix`)](https://github.com/your-username/your-repo-name/blob/main/Insurance_Analysis.pbix)
+https://github.com/Gayathri001-pala/prism_insurance_analysis/blob/main/prism_insurance_dashboard.pbix
 
-> ✳️ _Replace the link above with your actual GitHub file path after uploading your `.pbix`._
+
 
 ---
 
@@ -110,4 +110,4 @@ This dashboard provides key insights into the company’s performance. It suppor
 ## 👤 Created By
 
 **Gayathri Pala**  
-[LinkedIn](https://www.linkedin.com/in/pala-gayathri/)
+https://www.linkedin.com/in/pala-gayathri/
