@@ -16,6 +16,7 @@ To turn raw insurance data into meaningful visuals that help track policy types,
 - Format: **CSV file**  
 - Loaded into: **Microsoft SQL Server**  
 - Queried using: **SQL** and connected to Power BI
+https://github.com/Gayathri001-pala/prism_insurance_analysis/blob/main/prism_insurance_raw_data.csv
 
 **Columns included:**
 - Customer ID  
