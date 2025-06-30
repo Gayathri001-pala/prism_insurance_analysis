@@ -50,9 +50,9 @@ To turn raw insurance data into meaningful visuals that help track policy types,
 https://github.com/Gayathri001-pala/prism_insurance_analysis/blob/main/project_page_1.jpg
 
 ### 📌 Page 2 – Insurance Details Table  
-![Page 2](dashboard-preview/page2.png)
+https://github.com/Gayathri001-pala/prism_insurance_analysis/blob/main/project_page_2.jpg
 
-> 📌 _Make sure you add your images in a folder named `dashboard-preview` and name them `page1.png`, `page2.png`, etc. on GitHub._
+> 
 
 ---
 
